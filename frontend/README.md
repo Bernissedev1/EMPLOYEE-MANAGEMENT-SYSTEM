@@ -1,12 +1,16 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application designed to streamline corporate resource tracking, manage secure employee database schemas, and optimize workplace logistics. This project highlights advanced database relations and secure backend architecture.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Dynamic Database Architecture:** Relational management of employee records, departments, and shift logs.
+- **Secure Backend Logic:** Built with secure API endpoints to manage corporate resource allocation.
+- **Responsive Dashboard:** A clean user interface designed for administrative overviews and quick updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS, Vite
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL (PERN Stack) / MongoDB (MERN Stack) *(Note: Delete whichever one you didn't use!)*
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📈 Engineering Focus
+This project was built to master complex database relationship mapping and full-stack integration, applying robust corporate logic to a clean user interface.
